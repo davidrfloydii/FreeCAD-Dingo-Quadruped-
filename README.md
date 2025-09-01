@@ -3,7 +3,7 @@ A repository containing the FreeCAD CAD files for the robot, firmware for microc
 
 This is a version of the original design located [here](https://github.com/Yerbert/DingoQuadruped) and is intended to recreate the core functionality utilzing all open source tools.
 
-![Current Assembly State](DOCS/IMAGES/DingoFreeCADProject.png)
+![Current Assembly State](DOCS/IMAGES/BatteryDoorOpen.png)
 
 # Directory Structure
 The following describes the diretory structure. Note: The FreeCAD 1.0 Assembly workbench is used for putting all parts and sub-assemblies together into a single document.
